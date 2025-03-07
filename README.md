@@ -1,4 +1,3 @@
-eda
 Exploratory Data Analysis (EDA) is a crucial step in any data science project. It involves summarizing the main characteristics of a dataset, often using visualizations and statistical methods. The main goals of EDA include:
 
 *Understanding the Data – Checking data types, missing values, and distributions.
